@@ -1,0 +1,173 @@
+{
+  "name": "虫儿飞",
+  "time_signature": "4/4",
+  "tempo_bpm": 103,
+  "key": "F",
+  "part": "melody",
+  "intro": [
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 }
+  ],
+  "events": [
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "low", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "low", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "mid", "duration_beats": 4, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "low", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "low", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "mid", "duration_beats": 3, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["so"], "octave": "mid", "duration_beats": 3, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "mid", "duration_beats": 3, "pause_beats": 0 },
+    { "notes": [], "octave": null, "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["so"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "mid", "duration_beats": 4, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1.5, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "low", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "low", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["so"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "mid", "duration_beats": 4, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 4, "pause_beats": 0 }
+  ]
+}

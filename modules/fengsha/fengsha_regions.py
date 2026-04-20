@@ -1,0 +1,15 @@
+F_PROMPT_REGION = {
+    "x1": 1580,
+    "y1": 600,
+    "x2": 1622,
+    "y2": 900,
+}
+INTERACTION_TEXT_REGION = {
+    "x1": 1630,
+    "y1": 700,
+    "x2": 1870,
+    "y2": 742,
+}
+DIALOG_SPEAKER_REGION = {}
+DIALOG_CONTENT_REGION = {}
+INTERACTION_BUTTON_REGION = {}

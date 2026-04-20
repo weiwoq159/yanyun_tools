@@ -1,0 +1,87 @@
+{
+  "name": "欢乐颂",
+  "time_signature": "4/4",
+  "tempo_bpm": 146,
+  "key": "C",
+  "part": "melody",
+  "events": [
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["so"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["so"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "high", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "high", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": [], "octave": null, "duration_beats": 1, "pause_beats": 0 },
+    { "notes": [], "octave": null, "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["so"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 2, "pause_beats": 0 }
+  ]
+}

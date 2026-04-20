@@ -1,0 +1,26 @@
+{
+  "name": "卡农 (经典完整旋律)",
+  "time_signature": "4/4",
+  "tempo_bpm": 85,
+  "key": "D",
+  "part": "melody",
+  "events": [
+    { "notes": ["fa"], "octave": "high", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["fa"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 1, "pause_beats": 0 }
+  ]
+}

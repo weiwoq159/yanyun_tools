@@ -1,0 +1,95 @@
+{
+  "name": "莫斯科郊外的晚上",
+  "time_signature": "2/4",
+  "tempo_bpm": 76,
+  "key": "Eb",
+  "part": "melody",
+  "events": [
+    { "notes": ["so"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["si"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "low", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 2, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "low", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["si"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "low", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["so"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "mid", "duration_beats": 2, "pause_beats": 0 },
+
+    { "notes": ["so"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["si"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["si"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 0.5, "pause_beats": 0 },
+
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "low", "duration_beats": 2, "pause_beats": 0 }
+  ]
+}

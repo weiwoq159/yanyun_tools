@@ -1,0 +1,35 @@
+{
+  "name": "四季·冬 (第一乐章主题)",
+  "time_signature": "4/4",
+  "tempo_bpm": 80,
+  "key": "Fm",
+  "part": "violin_solo",
+  "events": [
+    { "notes": ["do"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+
+    { "notes": ["re"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "low", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "low", "duration_beats": 0.25, "pause_beats": 0 },
+
+    { "notes": ["si"], "octave": "low", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "low", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["la"], "octave": "low", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "low", "duration_beats": 0.25, "pause_beats": 0 },
+
+    { "notes": ["so"], "octave": "low", "duration_beats": 1, "pause_beats": 0 },
+
+    { "notes": ["do"], "octave": "high", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["si"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["do"], "octave": "high", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+
+    { "notes": ["la"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["fa"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["so"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 },
+    { "notes": ["mi"], "octave": "mid", "duration_beats": 0.25, "pause_beats": 0 }
+  ]
+}
